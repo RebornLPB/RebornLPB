@@ -9,7 +9,7 @@ Salut, je suis **Reborn**, un développeur orienté performance, architecture sy
 ### ⚡ Technos Maîtrisées & Projets Persos
 * **Backend & Scripting :** Python, Node.js, SQL
 * **Frontend :** HTML, CSS, JavaScript (ES6+)
-* **Spécialité :** Conception de bots et outils connectés à **Discord**, intégrations d'**IA**
+* **Spécialité :** Conception de bots et outils connectés à **Discord**, intégrations d'**IA**, conception de **sites webs**.
 
 ### 🧠 En cours d'acquisition (Cursus Holberton)
 * **Bas Niveau & Système :** Langage C (Norme Betty), Linux, Scripts Bash & Automatisation, Gestion mémoire
