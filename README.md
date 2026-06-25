@@ -1,30 +1,30 @@
-# Bienvenue sur mon profil ! 👋
+# Welcome to my profile! 👋
 
-Salut, je suis **Reborn**, un développeur orienté performance, architecture système et création d'applications modernes. Actuellement au sein du cursus intensif d'**Holberton School**, j'allie mes bases en développement (Python/Node) à un apprentissage rigoureux du bas niveau, du DevOps et de la culture système.
-
----
-
-## 🛠️ Stack Technique & Objectifs
-
-### ⚡ Technos Maîtrisées & Projets Persos
-* **Backend & Scripting :** Python, Node.js, SQL
-* **Frontend :** HTML, CSS, JavaScript (ES6+)
-* **Spécialité :** Conception de bots et outils connectés à **Discord**, intégrations d'**IA**, conception de **sites webs**.
-
-### 🧠 En cours d'acquisition (Cursus Holberton)
-* **Bas Niveau & Système :** Langage C (Norme Betty), Linux, Scripts Bash & Automatisation, Gestion mémoire
-* **DevOps & Sécurité :** Docker, CI/CD, IaC (Infrastructure as Code), DevSecOps, Monitoring
-* **Écosystème Web Avancé :** React, FastAPI, Architectures orientées IA
+Hi, I'm **Reborn**, a software developer focused on performance, system architecture, and modern application development. Currently fast-tracking my skills at **Holberton School**, I bridge the gap between my development foundations (Python/Node) and a rigorous training in low-level computing, DevOps, and system culture.
 
 ---
 
-## 📁 Dépôts Principaux
+## 🛠️ Tech Stack & Goals
 
-* 🖥️ **[holbertonschool-low_level_programming](https://github.com/RebornLPB/holbertonschool-low_level_programming)** : Fondations du C, algorithmes et gestion de la mémoire.
-* 🐚 **[holbertonschool-shell](https://github.com/RebornLPB/holbertonschool-shell)** : Scripting Bash, administration système et automatisation Linux.
+### ⚡ Core Stack & Personal Projects
+* **Backend & Scripting:** Python, Node.js, SQL
+* **Frontend:** HTML, CSS, JavaScript (ES6+)
+* **Specialty:** Building **Discord** bots & connected tools, **AI** integrations, and **website** development.
+
+### 🧠 Skills in Progress (Holberton School)
+* **Low-Level & System:** C Programming (Betty Style), Linux, Bash Scripting & Automation, Memory Management
+* **DevOps & Security:** Docker, CI/CD, IaC (Infrastructure as Code), DevSecOps, Monitoring
+* **Advanced Web Ecosystem:** React, FastAPI, AI-driven Architectures
 
 ---
 
-## 💬 Me retrouver sur Discord
+## 📁 Main Repositories
+
+* 🖥️ **[holbertonschool-low_level_programming](https://github.com/RebornLPB/holbertonschool-low_level_programming)** : C foundations, algorithms, and memory management.
+* 🐚 **[holbertonschool-shell](https://github.com/RebornLPB/holbertonschool-shell)** : Bash scripting, system administration, and Linux automation.
+
+---
+
+## 💬 Find me on Discord
 
 [![Discord](https://img.shields.io/badge/Discord-Reborn-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/8252616913883234324)
