@@ -1,11 +1,30 @@
 # Bienvenue sur mon profil ! 👋
 
-Salut, je suis Reborn, passionné par le développement et les jeux. Voici un aperçu de ce que je fais :
+Salut, je suis **Reborn**, un développeur orienté performance, architecture système et création d'applications modernes. Actuellement au sein du cursus intensif d'**Holberton School**, j'allie mes bases en développement (Python/Node) à un apprentissage rigoureux du bas niveau, du DevOps et de la culture système.
 
-- 💻 Technologies : HTML, CSS, Python, Node.js, SQL...
-- 🚀 Je travaille sur des projets liés à discord & l'IA.
-- 🎮 Amateur de jeux vidéo et de programmation ludique.
+---
 
-### Me retrouver sur Discord
+## 🛠️ Stack Technique & Objectifs
 
-[![Discord Badge](https://img.shields.io/badge/Discord-Reborn-red?labelColor=2B303A&style=flat&logo=discord&logoColor=red)](https://discord.com/users/852616913883234324)
+### ⚡ Technos Maîtrisées & Projets Persos
+* **Backend & Scripting :** Python, Node.js, SQL
+* **Frontend :** HTML, CSS, JavaScript (ES6+)
+* **Spécialité :** Conception de bots et outils connectés à **Discord**, intégrations d'**IA**
+
+### 🧠 En cours d'acquisition (Cursus Holberton)
+* **Bas Niveau & Système :** Langage C (Norme Betty), Linux, Scripts Bash & Automatisation, Gestion mémoire
+* **DevOps & Sécurité :** Docker, CI/CD, IaC (Infrastructure as Code), DevSecOps, Monitoring
+* **Écosystème Web Avancé :** React, FastAPI, Architectures orientées IA
+
+---
+
+## 📁 Dépôts Principaux
+
+* 🖥️ **[holbertonschool-low_level_programming](https://github.com/RebornLPB/holbertonschool-low_level_programming)** : Fondations du C, algorithmes et gestion de la mémoire.
+* 🐚 **[holbertonschool-shell](https://github.com/RebornLPB/holbertonschool-shell)** : Scripting Bash, administration système et automatisation Linux.
+
+---
+
+## 💬 Me retrouver sur Discord
+
+[![Discord](https://img.shields.io/badge/Discord-Reborn-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/8252616913883234324)
