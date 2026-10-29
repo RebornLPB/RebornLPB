@@ -87,5 +87,4 @@
 <a href="mailto:sdylan@gmx.fr"><img src="assets/contact/email.svg" width="180" alt="Email"/></a>
 <a href="https://discord.com/users/8252616913883234324"><img src="assets/contact/discord.svg" width="180" alt="Discord"/></a>
 <a href="https://github.com/RebornLPB"><img src="assets/contact/github.svg" width="180" alt="GitHub"/></a>
-
 </div>
