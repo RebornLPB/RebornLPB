@@ -13,10 +13,11 @@
 <img src="assets/h-stack.svg" width="100%" alt=""/>
 
 <a><img src="assets/panels/languages.svg" width="49%" alt="Languages"/></a>
-<a><img src="assets/panels/data.svg" width="49%" alt="Back-end and data"/></a>
-<a><img src="assets/panels/terminal.svg" width="49%" alt="Terminal and system"/></a>
+<a><img src="assets/panels/backend.svg" width="49%" alt="Back-end, data and design"/></a>
+<a><img src="assets/panels/system.svg" width="49%" alt="System and tools"/></a>
 <a><img src="assets/panels/editors.svg" width="49%" alt="Editors"/></a>
-<a><img src="assets/panels/ai.svg" width="49%" alt="AI"/></a>
+<a><img src="assets/panels/lowlevel.svg" width="49%" alt="Low-level C"/></a>
+<a><img src="assets/panels/assistants.svg" width="49%" alt="AI assistants"/></a>
 <a><img src="assets/panels/next.svg" width="49%" alt="Learning next"/></a>
 
 <br/>
