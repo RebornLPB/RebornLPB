@@ -18,6 +18,16 @@
 
 <img src="assets/dock/system.svg" alt=""/>
 
+<img src="assets/dock/editors.svg" alt=""/>
+
+<img src="assets/dock/ai.svg" alt=""/>
+
+<br/>
+
+<img src="assets/h-concepts.svg" width="100%" alt=""/>
+
+<img src="assets/concepts.svg" width="100%" alt=""/>
+
 <br/>
 
 <img src="assets/h-quest.svg" width="100%" alt=""/>
@@ -70,9 +80,7 @@
 
 <div align="center">
 
-<sub>Profile config: <a href="https://github.com/RebornLPB/RebornLPB">RebornLPB/RebornLPB</a> · all repositories: <a href="https://github.com/RebornLPB?tab=repositories">see the full list</a></sub>
-
-<br/><br/>
+<br/>
 
 <img src="assets/h-stats.svg" width="100%" alt=""/>
 
@@ -88,5 +96,9 @@
 <a href="mailto:sdylan@gmx.fr"><img src="assets/contact/email.svg" width="180" alt="Email"/></a>
 <a href="https://discord.com/users/8252616913883234324"><img src="assets/contact/discord.svg" width="180" alt="Discord"/></a>
 <a href="https://github.com/RebornLPB"><img src="assets/contact/github.svg" width="180" alt="GitHub"/></a>
+
+<br/>
+
+<sub>Profile config: <a href="https://github.com/RebornLPB/RebornLPB">RebornLPB/RebornLPB</a> · all repositories: <a href="https://github.com/RebornLPB?tab=repositories">see the full list</a></sub>
 
 </div>
