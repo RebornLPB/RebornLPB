@@ -3,7 +3,7 @@
 <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF5FB8" stop-opacity=".35"/><stop offset="1" stop-color="#3FA9FF" stop-opacity=".35"/></linearGradient>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f2a"/><stop offset="1" stop-color="#1a0b2e"/></linearGradient>
 <clipPath id="clip"><rect width="900" height="300" rx="20"/></clipPath>
-<filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
 <g clip-path="url(#clip)">
 <rect width="900" height="300" fill="url(#bg)"/>
 <g opacity=".9"><path d="M0 235 q75 -26 150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 V330 H0 Z" fill="url(#w2)"><animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="9s" repeatCount="indefinite"/></path></g>

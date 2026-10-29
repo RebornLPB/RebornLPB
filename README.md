@@ -12,15 +12,12 @@
 
 <img src="assets/h-stack.svg" width="100%" alt=""/>
 
-<img src="assets/dock/languages.svg" alt=""/>
-
-<img src="assets/dock/backend.svg" alt=""/>
-
-<img src="assets/dock/system.svg" alt=""/>
-
-<img src="assets/dock/editors.svg" alt=""/>
-
-<img src="assets/dock/ai.svg" alt=""/>
+<a><img src="assets/panels/languages.svg" width="49%" alt="Languages"/></a>
+<a><img src="assets/panels/data.svg" width="49%" alt="Back-end and data"/></a>
+<a><img src="assets/panels/terminal.svg" width="49%" alt="Terminal and system"/></a>
+<a><img src="assets/panels/editors.svg" width="49%" alt="Editors"/></a>
+<a><img src="assets/panels/ai.svg" width="49%" alt="AI"/></a>
+<a><img src="assets/panels/next.svg" width="49%" alt="Learning next"/></a>
 
 <br/>
 
