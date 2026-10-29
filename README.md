@@ -76,8 +76,7 @@
 
 <img src="assets/h-stats.svg" width="100%" alt=""/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RebornLPB&show_icons=true&hide_border=true&bg_color=0b1026&title_color=3FA9FF&icon_color=FF5FB8&text_color=c9d1ff&ring_color=FF5FB8" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebornLPB&layout=compact&hide_border=true&bg_color=0b1026&title_color=3FA9FF&text_color=c9d1ff" alt="top languages"/>
+<img src="assets/langs.svg" width="100%" alt=""/>
 
 <br/>
 
