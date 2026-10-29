@@ -36,8 +36,7 @@
 <table>
 <tr><td><a href="https://github.com/RebornLPB/holbertonschool-low_level_programming"><img src="assets/repos/holbertonschool-low_level_programming.svg" width="440" alt="holbertonschool-low_level_programming"/></a></td><td><a href="https://github.com/RebornLPB/holbertonschool-printf"><img src="assets/repos/holbertonschool-printf.svg" width="440" alt="holbertonschool-printf"/></a></td></tr>
 <tr><td><a href="https://github.com/RebornLPB/holbertonschool-simple_shell"><img src="assets/repos/holbertonschool-simple_shell.svg" width="440" alt="holbertonschool-simple_shell"/></a></td><td><a href="https://github.com/RebornLPB/holbertonschool-binary_trees"><img src="assets/repos/holbertonschool-binary_trees.svg" width="440" alt="holbertonschool-binary_trees"/></a></td></tr>
-<tr><td><a href="https://github.com/RebornLPB/holbertonschool-sorting_algorithms"><img src="assets/repos/holbertonschool-sorting_algorithms.svg" width="440" alt="holbertonschool-sorting_algorithms"/></a></td><td><a href="https://github.com/RebornLPB/Vani-RPG"><img src="assets/repos/Vani-RPG.svg" width="440" alt="Vani-RPG"/></a></td></tr>
-<tr><td><a href="https://github.com/RebornLPB/AI-Assisted-Code-Reviewer-printf-"><img src="assets/repos/AI-Assisted-Code-Reviewer-printf-.svg" width="440" alt="AI-Assisted-Code-Reviewer-printf-"/></a></td></tr>
+<tr><td><a href="https://github.com/RebornLPB/holbertonschool-sorting_algorithms"><img src="assets/repos/holbertonschool-sorting_algorithms.svg" width="440" alt="holbertonschool-sorting_algorithms"/></a></td><td><a href="https://github.com/RebornLPB/AI-Assisted-Code-Reviewer-printf-"><img src="assets/repos/AI-Assisted-Code-Reviewer-printf-.svg" width="440" alt="AI-Assisted-Code-Reviewer-printf-"/></a></td></tr>
 </table>
 </div>
 
@@ -82,7 +81,11 @@
 
 <img src="assets/h-contact.svg" width="100%" alt=""/>
 
-[![Discord](https://img.shields.io/badge/Discord-Reborn-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/8252616913883234324)
-[![GitHub](https://img.shields.io/badge/GitHub-RebornLPB-0b1026?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RebornLPB)
+<img src="assets/open.svg" width="100%" alt=""/>
+
+<a href="https://www.linkedin.com/in/dylan-senan/"><img src="assets/contact/linkedin.svg" width="210" alt="LinkedIn"/></a>
+<a href="mailto:sdylan@gmx.fr"><img src="assets/contact/email.svg" width="210" alt="Email"/></a>
+<a href="https://discord.com/users/8252616913883234324"><img src="assets/contact/discord.svg" width="210" alt="Discord"/></a>
+<a href="https://github.com/RebornLPB"><img src="assets/contact/github.svg" width="210" alt="GitHub"/></a>
 
 </div>
